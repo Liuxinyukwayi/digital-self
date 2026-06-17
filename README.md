@@ -53,6 +53,7 @@ Lite 模式开箱即用，无需任何额外配置。在设置页面可随时切
 git clone https://github.com/Liuxinyukwayi/digital-self.git
 cd digital-self
 启动start.bat
+```
 
 ### 2. 访问应用
 
